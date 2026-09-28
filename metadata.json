@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Delivery Scheduler",
+  "description": "Greedy Job Sequencing with Deadlines algorithm for optimal food delivery scheduling and DAA analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
